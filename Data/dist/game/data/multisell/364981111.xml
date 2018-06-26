@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="multisell.xsd">
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26641" />
+		<!--Agathion seal bracelet 30 dias -->
+		<production count="1" id="20238" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="26641" />
+		<!-- runa de sp -->
+		<production count="1" id="20346" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="250" id="26641" />
+		<!-- runa de xp -->
+		<production count="1" id="20340" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="1" id="26641" />
+		<!-- greater cp potion -->
+		<production count="70" id="5592" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="50" id="26641" />
+		<!-- greater cp potion -->
+		<production count="1" id="17093" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="50" id="26641" />
+		<!-- Steelrazon Evaluation -->
+		<production count="1" id="9772" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="50" id="26641" />
+		<!-- Mask of Medium -->
+		<production count="1" id="1631" />
+	</item>
+</list>

@@ -1,0 +1,31 @@
+<html>
+<body>
+<br>
+<center>
+<font name="hs12" color="LEVEL">Clan mail manager</font><br1>
+<img src="L2UI.SquareGray" width=755 height=3><br>
+<table width=780>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=50>[Subject]:must less than 30 characters</td>
+</tr>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=760><edit var="subject" width=760></td>
+</tr>
+<tr></tr>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=50>[Content]: must less than 255 characters</td>
+</tr>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=760><multiedit var="content" width=760 height=250></td>
+</tr>
+</table>
+<br>
+<button value="Send" action="bypass _maillist_0_1_0_ send $subject $content" width=75 height=20 back="" fore="L2UI_CT1.ListCTRL_DF_Title">
+</center>
+<br>
+</body>
+</html>

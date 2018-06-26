@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Bracelet -->
+<!-- © 2011 by 007Florin -->
+
+
+
+  <!-- Mount Bracelet - Darkmane Pacer -->
+ <item>
+    <production id="21383" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Steam Beatle -->
+ <item>
+    <production id="21395" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Gold Maned Lion -->
+ <item>
+    <production id="21407" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Jet Bike -->
+ <item>
+    <production id="21419" count="1"/>
+  </item>
+
+  <!-- Rocking Horse Mount Bracelet -->
+ <item>
+    <production id="22193" count="1"/>
+  </item>
+
+</list>

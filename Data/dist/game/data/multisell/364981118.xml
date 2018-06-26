@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="multisell.xsd">
+	
+<!-- Atribute Stones -->
+<!-- © 2010 by mathuza -->
+
+
+
+  <!-- Fire Stone -->
+ <item>
+   
+		<!-- Adena -->
+		<ingredient count="1000" id="26639" />
+    <production id="26641" count="500"/>
+  </item>  
+  
+</list>

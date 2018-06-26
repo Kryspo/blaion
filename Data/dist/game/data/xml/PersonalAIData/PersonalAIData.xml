@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PersonalAIData.xsd">
+	<spawn name="smtg_drill_group_01">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>1</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_02">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>2</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_03">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>3</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_04">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>4</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_05">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>5</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_06">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>6</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_07">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>7</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_08">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>8</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_09">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>9</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_10">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>10</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_11">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>11</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_12">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>12</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_13">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>13</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_14">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>14</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_15">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>15</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_16">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>16</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_17">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>17</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_18">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>18</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_19">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>19</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_20">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>20</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_21">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>21</groupId>
+	</spawn>
+	<!--Sel Mahums Squad 2 -->
+	<spawn name="smtg_drill_group_22">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>22</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_23">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>23</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_24">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>24</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_25">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>25</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_26">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>26</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_27">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>27</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_28">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>28</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_29">
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>29</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_30">
+		<direction>18984</direction>
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>30</groupId>
+	</spawn>
+	<spawn name="smtg_drill_group_31">
+		<direction>19511</direction>
+		<disableRandomAnimation>true</disableRandomAnimation>
+		<disableRandomWalk>true</disableRandomWalk>
+		<groupId>31</groupId>
+	</spawn>
+</list>

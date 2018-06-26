@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Life Stones -->
+<!-- © 2010 by mathuza -->
+
+
+
+<!-- Mid-Grade Life Stone: level 67 -->
+ <item>
+   
+    <production id="8740" count="1"/>
+  </item>
+
+  <!-- Mid-Grade Life Stone: level 70 -->
+ <item>
+   
+    <production id="8741" count="1"/>
+  </item>
+
+  <!-- Mid-Grade Life Stone: level 76 -->
+ <item>
+   
+    <production id="8742" count="1"/>
+  </item>
+
+  <!-- Mid-Grade Life Stone: level 80 -->
+ <item>
+   
+    <production id="9574" count="1"/>
+  </item>
+
+  <!-- Mid-Grade Life Stone - level 82 -->
+ <item>
+   
+    <production id="10484" count="1"/>
+  </item>
+
+  <!-- Mid-Grade Life Stone - level 84 -->
+ <item>
+   
+    <production id="14167" count="1"/>
+  </item>
+  
+   <!-- Mid-Grade Life Stone - level 85 -->
+	<item>
+		
+		<production id="16161" count="1" />
+	</item>
+	
+	<!-- Mid-Grade Life Stone - level 86 -->
+	<item>
+		
+		<production id="16165" count="1" />
+	</item>
+
+  <!-- High-Grade Life Stone: level 67 -->
+ <item>
+   
+    <production id="8750" count="1"/>
+  </item>
+
+  <!-- High-Grade Life Stone: level 70 -->
+ <item>
+   
+    <production id="8751" count="1"/>
+  </item>
+
+  <!-- High-Grade Life Stone: level 76 -->
+ <item>
+   
+    <production id="8752" count="1"/>
+  </item>
+
+  <!-- High-Grade Life Stone: level 80 -->
+ <item>
+   
+    <production id="9575" count="1"/>
+  </item>
+
+  <!-- High-Grade Life Stone - level 82 -->
+ <item>
+   
+    <production id="10485" count="1"/>
+  </item>
+
+  <!-- High-Grade Life Stone - level 84 -->
+ <item>
+   
+    <production id="14168" count="1"/>
+  </item>
+  
+  <!-- High-Grade Life Stone - level 85 -->
+	<item>
+		
+		<production id="16162" count="1" />
+	</item>
+	
+	<!-- High-Grade Life Stone - level 86 -->
+	<item>
+		
+		<production id="16166" count="1" />
+	</item>
+
+  <!-- Top-Grade Life Stone: level 67 -->
+ <item>
+    
+   
+    <production id="8760" count="1"/>
+  </item>
+
+  <!-- Top-Grade Life Stone: level 70 -->
+ <item>
+    
+   
+    <production id="8761" count="1"/>
+  </item>
+
+  <!-- Top-Grade Life Stone: level 76 -->
+ <item>
+    
+   
+    <production id="8762" count="1"/>
+  </item>
+
+  <!-- Top-Grade Life Stone: level 80 -->
+ <item>
+    
+   
+    <production id="9576" count="1"/>
+  </item>
+
+  <!-- Top-Grade Life Stone - level 82 -->
+ <item>
+    
+   
+    <production id="10486" count="1"/>
+  </item>
+
+  <!-- Top-Grade Life Stone - level 84 -->
+ <item>
+    
+   
+    <production id="14169" count="1"/>
+  </item>
+  
+	<!-- Top-Grade Life Stone - level 85 -->
+	<item>
+		
+		<production id="16163" count="1" />
+	</item>
+
+	<!-- Top-Grade Life Stone - level 86 -->
+	<item>
+		
+		<production id="16167" count="1" />
+	</item>
+	
+</list>

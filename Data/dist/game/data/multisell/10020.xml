@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Consumable -->
+<!-- © 2010 by mathuza -->
+
+
+
+      <!-- Ancient Adena -->
+ <item>
+   
+    <production id="5575" count="1"/>
+  </item>
+
+
+  <!-- Dualsword Craft Stamp -->
+ <item>
+   
+    <production id="5126" count="1"/>
+  </item>
+
+  <!-- Battle Symbol -->
+ <item>
+   
+    <production id="8875" count="1"/>
+  </item>
+
+  <!-- Magic Symbol -->
+ <item>
+   
+    <production id="8876" count="1"/>
+  </item>
+
+  <!-- Phoenix Blood -->
+ <item>
+   
+    <production id="8873" count="1"/>
+  </item>
+
+  <!-- Einhasad's Holy Water -->
+ <item>
+   
+    <production id="8874" count="1"/>
+  </item>
+  
+  <!-- Cursed Bone -->
+ <item>
+   
+    <production id="2508" count="1"/>
+  </item>
+  
+   <!-- Scroll: Recovery (Grade D) -->
+ <item>
+   
+    <production id="8595" count="1"/>
+  </item>
+  
+  <!-- Scroll: Recovery (Grade C) -->
+ <item>
+   
+    <production id="8596" count="1"/>
+  </item>
+  
+ <!-- Scroll: Recovery (Grade B) -->
+ <item>
+   
+    <production id="8597" count="1"/>
+  </item>
+  
+  <!-- Scroll: Recovery (Grade A) -->
+ <item>
+   
+    <production id="8598" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade S) -->
+ <item>
+   
+    <production id="8599" count="1"/>
+  </item>
+  
+    <!-- Gemstones D -->
+ <item>
+   
+    <production id="2130" count="1"/>
+  </item>
+
+   <!-- Gemstones c -->
+ <item>
+   
+    <production id="2131" count="1"/>
+  </item>
+  
+   <!-- Gemstones b -->
+ <item>
+   
+    <production id="2132" count="1"/>
+  </item>
+  
+  <!-- Gemstones A -->
+ <item>
+    
+    <production id="2133" count="1"/>
+  </item>
+  
+  <!-- Gemstones S -->
+ <item>
+    
+    <production id="2134" count="1"/>
+  </item>
+  
+  <!-- Soul Ore-->
+ <item>
+   
+    <production id="1785" count="1"/>
+  </item>
+  
+  <!-- Spirit Ore -->
+ <item>
+   
+    <production id="3031" count="1"/>
+  </item>
+  
+  <!-- Energy Stone -->
+ <item>
+   
+    <production id="5589" count="1"/>
+  </item>
+  
+   <!-- Summoning Crystal -->
+ <item>
+   
+    <production id="8615" count="1"/>
+  </item>
+  
+    <!-- Charm of Courage: D-Grade -->
+ <item>
+   
+    <production id="8516" count="1"/>
+  </item>
+  
+  <!-- Charm of Courage: C-Grade -->
+ <item>
+   
+    <production id="8517" count="1"/>
+  </item>
+  
+ <!-- Charm of Courage: B-Grade -->
+ <item>
+   
+    <production id="8518" count="1"/>
+  </item>
+  
+  <!-- Charm of Courage: A-Grade -->
+ <item>
+   
+    <production id="8519" count="1"/>
+  </item>
+  
+  <!-- Charm of Courage: S-Grade -->
+ <item>
+   
+    <production id="8520" count="1"/>
+  </item>
+  
+  <!-- Dice Heart -->
+ <item>
+   
+    <production id="4625" count="1"/>
+  </item>
+  
+  <!-- Dice Spade -->
+ <item>
+   
+    <production id="4626" count="1"/>
+  </item>
+  
+<!-- Dice Clover -->
+ <item>
+   
+    <production id="4627" count="1"/>
+  </item>
+  
+<!-- Dice Diamond -->
+ <item>
+   
+    <production id="4628" count="1"/>
+  </item>
+  
+  <!--  Bone Arrow  -->
+ <item>
+   
+    <production id="1341" count="1"/>
+  </item>
+  
+  <!--  Steel Arrow  -->
+ <item>
+   
+    <production id="22068" count="1"/>
+  </item>
+
+    <!-- Silver Arrow  -->
+ <item>
+   
+    <production id="1343" count="1"/>
+  </item>
+
+
+  <!-- Mithril Arrow -->
+ <item>
+   
+    <production id="1344" count="1"/>
+  </item>
+
+  
+  <!-- Light Arrow -->
+ <item>
+   
+    <production id="22071" count="1"/>
+  </item>
+  
+  <!--  Bone Quiver  -->
+ <item>
+   
+    <production id="22089" count="1"/>
+  </item>
+  
+  <!--  Steel Quiver  -->
+ <item>
+   
+    <production id="22090" count="1"/>
+  </item>
+  
+  <!-- Silver Quiver  -->
+ <item>
+   
+    <production id="22091" count="1"/>
+  </item>
+  
+  <!-- Mithril Quiver -->
+ <item>
+   
+    <production id="22092" count="1"/>
+  </item>
+  
+  <!-- Light Quiver -->
+ <item>
+   
+    <production id="22093" count="1"/>
+  </item>
+  
+  <!-- Bone Bolt -->
+ <item>
+   
+    <production id="9633" count="1"/>
+  </item>
+  
+   <!-- Steel Bolt -->
+ <item>
+   
+    <production id="9634" count="1"/>
+  </item>
+  
+   <!-- Silver Bolt -->
+ <item>
+   
+    <production id="9635" count="1"/>
+  </item>
+
+  <!-- Mithril Bolt -->
+ <item>
+   
+    <production id="9636" count="1"/>
+  </item>
+
+  <!-- Shining Bolt -->
+ <item>
+   
+    <production id="9637" count="1"/>
+  </item>
+  
+  <!-- Bone Bolt Container -->
+ <item>
+   
+    <production id="22149" count="1"/>
+  </item>
+  
+  <!-- Steel Bolt Container -->
+ <item>
+   
+    <production id="22150" count="1"/>
+  </item>
+  
+  <!-- Silver Bolt Container -->
+ <item>
+   
+    <production id="22151" count="1"/>
+  </item>
+  
+  <!-- Mithril Bolt Container -->
+ <item>
+   
+    <production id="22152" count="1"/>
+  </item>
+  
+  <!-- Shining Bolt Container -->
+ <item>
+   
+    <production id="22153" count="1"/>
+  </item>
+  
+  
+    
+</list>

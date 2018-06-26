@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="multisell.xsd">
+	<!-- Quest	-->
+	
+	<item>
+   <!-- Adena -->
+		<ingredient count="500" id="26639" />
+   <production id="4295" count="10"/>
+  </item>
+	<item>
+   <!-- Adena -->
+		<ingredient count="300" id="26639" />
+   <production id="3865" count="6"/>
+  </item>
+	<item>
+   <!-- Adena -->
+		<ingredient count="300" id="26639" />
+   <production id="7267" count="6"/>
+  </item>
+</list>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" ns0:noNamespaceSchemaLocation="multisell.xsd">
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Aden -->
+		<production count="1" id="64000" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Dion -->
+		<production count="1" id="64001" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Giran -->
+		<production count="1" id="64002" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Gludio -->
+		<production count="1" id="64003" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Goddard -->
+		<production count="1" id="64004" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Innadril -->
+		<production count="1" id="64005" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Oren -->
+		<production count="1" id="64006" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Rune -->
+		<production count="1" id="64007" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Schuttgart -->
+		<production count="1" id="64008" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Zaken -->
+		<production count="1" id="21716" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Freya -->
+		<production count="1" id="21717" />
+	</item>
+	<item>
+		
+		<!-- Adena -->
+		<ingredient count="150" id="26639" />
+		<!-- Cloak of Frintezza -->
+		<production count="1" id="21718" />
+	</item>
+</list>

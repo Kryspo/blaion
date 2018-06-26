@@ -1,0 +1,35 @@
+﻿<html><title></title>
+<body>
+<br>
+<center>
+<font name="hs12" color="LEVEL">Message manager</font><br1>
+<img src="L2UI.SquareGray" width=755 height=3><br>
+<table width=700>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=50><font color=LEVEL>[Subject]</font>: Must less than <font color=FF00FF>30</font> characters.</td>
+</tr>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=700><edit var="subject" width=700></td>
+</tr>
+<tr></tr><tr></tr><tr></tr><tr></tr>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=50><font color=LEVEL>[Content]</font>: Must less than <font color=FF00FF>255</font> characters.</td>
+</tr>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=700><multiedit var="content" width=700 height=250></td>
+</tr>
+</table>
+<br>
+<table><tr>
+<td width=100><font name=hs9>Message type:</font></td>
+<td><combobox width=75 var="type" list=Sell;Buy;Other;Invite></td>
+<td><button value="Post" action="bypass _bbsmsg new $type / $subject / $content" width=75 height=20 back="" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+</table>
+</center>
+</body>
+</html>
+

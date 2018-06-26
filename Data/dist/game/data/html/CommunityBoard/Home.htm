@@ -1,0 +1,45 @@
+<html>
+<body>
+<br><br>
+<img src="L2UI.SquareGray" width=785 height=1>
+<table width=780 height=50 bgcolor=171612>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=32 height=42><img src=Icon.action011 width=32 height=32></td><td fixwidth=500><font name="hs12" color=00CC00>Party Matching Manager</font><br1>
+<font color=LEVEL name=hs9>Hello! Here you can find other players who are looking for party!</font></td>
+</tr>
+</table>
+<img src="L2UI.SquareGray" width=785 height=1>
+<br>
+<table width=730 height=25 cellspacing=0 cellpadding=0>
+<tr>
+<td fixwidth=3></td>
+<td fixwidth=130 align=left><button action="bypass _bbspartymatching on" value="Enter Matching" width=100 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=130 align=left><button action="bypass _bbspartymatching off" value="Leave Matching" width=100 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=70><button action="bypass _bbspartymatching filter $min $max $claz" value="Filtrate" width=60 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=60>&nbsp;<font color=LEVEL name=hs9>Min Lv:</font></td>
+<td fixwidth=60><edit var="min" width=30 height=15></td>
+<td fixwidth=60>&nbsp;<font color=LEVEL name=hs9>Max Lv: </font></td>
+<td fixwidth=60><edit var="max" width=30 height=15></td>
+<td fixwidth=100><combobox width=75 var="claz" list=ALL;KNIGHT;WARRIOR;WIZARD;ASSASSIN;HEALER;SUMMONER;BUFFER_F;BUFFER_M;ARCHER></td>
+<td fixwidth=120><button action="bypass _bbspartymatching filter 1" value="Remove Filter" width=100 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=80 align=right><button action="bypass _bbslink" value="Refresh" width=60 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+</tr>
+</table>
+<br>
+<table width=750 height=22 cellspacing=0 cellpadding=-1>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=205><button action="" value="Name" width=205 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=65><button action="" value="Level" width=65 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=205><button action="" value="Clan" width=205 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=125><button action="" value="Class" width=125 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=80><button action="" value="Base Class" width=80 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+<td fixwidth=80><button action="" value="Invite" width=80 height=20 back="L2UI_CT1.ListCTRL_DF_Title" fore="L2UI_CT1.ListCTRL_DF_Title"></td>
+</tr>
+</table>
+<img src="L2UI.SquareGray" width=755 height=1>
+%partyMatchingMembers%
+<br><br>
+</body>
+</html>

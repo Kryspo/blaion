@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	
+	<item id="26638" type="EtcItem" name="PvP - L2 Blaion">
+		<set name="icon" val="icon.etc_magic_coin_gold_i02" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="steel" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		</item>
+		
+	<item id="26639" type="EtcItem" name="Event - L2 Blaion">
+		<set name="icon" val="icon.etc_event_glitter_medal_i00" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="steel" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		</item>
+		
+	<item id="26640" type="EtcItem" name="Blaion Card">
+		<set name="icon" val="icon.etc_permit_card_i00" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="liquid" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		</item>
+		
+	<item id="26641" type="EtcItem" name="Blaion Coin">
+		<set name="icon" val="icon.mouse_coin_i00" />
+		<set name="immediate_effect" val="1" />
+		<set name="material" val="paper" />
+		<set name="price" val="100" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		</item>
+
+</list>

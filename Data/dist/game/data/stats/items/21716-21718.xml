@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Cloack's customs -->
+<list>
+	<item id="21716" type="Armor" name="Cloak of Zaken">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+	                <mul val='1.60' order='0x40' stat='DEX'/>
+			<add order="0x40" stat="darkRes" val="40" />
+		</for>
+	</item>
+	<item id="21717" type="Armor" name="Cloak of Freya">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+	                <mul val='1.60' order='0x40' stat='DEX'/>
+			<add order="0x40" stat="darkRes" val="40" />
+		</for>
+	</item>
+	<item id="21718" type="Armor" name="Cloak of Frintezza">
+		<set name="icon" val="icon.dion_panel_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="1" />
+		<set name="crystal_type" val="s84" />
+		<set name="material" val="wood" />
+		<set name="weight" val="220" />
+		<set name="price" val="28671000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<for>
+	                <mul val='1.60' order='0x40' stat='DEX'/>
+			<add order="0x40" stat="darkRes" val="40" />
+		</for>
+	</item>
+</list>

@@ -1,0 +1,31 @@
+﻿<html>
+<body>
+<br>
+<center>
+<font name="hs12" color="LEVEL">Message manager</font><br1>
+<img src="L2UI.SquareGray" width=755 height=3><br>
+<table>
+	<tr>
+	<td><button value="New messages" action="bypass _bbstop2;message_new" width=110 height=25 back="L2UI_CT1.button_df" fore="L2UI_CT1.button_df"></td>
+	<td><button value="Type" action="bypass _bbsmsg all 1" width=75 height=25 back="L2UI_CT1.button_df" fore="L2UI_CT1.button_df"></td>
+	<td><button value="My messages" action="bypass _bbsmsg my" width=110 height=25 back="L2UI_CT1.button_df" fore="L2UI_CT1.button_df"></td>
+	<td><button value="Filter Refresh" action="bypass _bbsmsg $type 1" width=110 height=25 back="L2UI_CT1.button_df" fore="L2UI_CT1.button_df"></td>
+	<td><combobox width=75 var="type" list=Sell;Buy;Other;Invite></td>
+	</tr>
+</table>
+<table width=730 height=22 cellspacing=0 cellpadding=-1 bgcolor=FFAADD>
+<tr>
+<td fixwidth=5></td>
+<td fixwidth=100>Type</td>
+<td fixwidth=330>Content</td>
+<td fixwidth=140>Author</td>
+<td fixwidth=100>Date</td>
+<td fixwidth=60>View?</td>
+</tr>
+</table>
+<img src="L2UI.SquareGray" width=755 height=1>
+%list%
+</center>
+</body>
+</html>
+

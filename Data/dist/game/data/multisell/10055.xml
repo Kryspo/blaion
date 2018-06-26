@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+ 
+	<!-- Top-grade Magic Ornament Mithril Belt -->
+	<item>
+		
+		
+		<production id="14953" count="1" />
+	</item>
+
+	<!-- Top-grade Magic Ornament Mithril Belt -->
+	<item>
+		
+		
+		<production id="14957" count="1" />
+	</item>
+
+	<!-- Top-grade Magic Ornament Mithril Belt -->
+	<item>
+		
+		
+		<production id="14961" count="1" />
+	</item>
+</list>

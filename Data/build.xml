@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Data" default="dist" basedir=".">
+	<property name="build" location="build" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.doc" location="${build.dist}/doc" />
+	<property name="build.dist.game" location="${build.dist}/game" />
+	<property name="build.dist.login" location="${build.dist}/login" />
+
+	<target name="init" depends="clean" description="Create the output directories. Do nothing if dirs were already created">
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="dist" depends="init" description="Syncronizes build space contents with project.">
+		<sync todir="${build.dist}" includeemptydirs="true">
+			<fileset dir="dist" />
+		</sync>
+		<copy todir="${build.dist.game}/data">
+			<fileset dir="misc" />
+		</copy>
+		<copy todir="${build.dist.login}/data">
+			<fileset dir="misc" />
+		</copy>
+
+		<tstamp>
+			<format property="build.date" pattern="yyyy-MM-dd" />
+		</tstamp>
+
+		<zip destfile="${build}/Data_${build.date}.zip" basedir="${build.dist}" />
+	</target>
+
+	<target name="clean" description="Deletes the datapack distribution ZIP file only, preserving synchronized build files.">
+		<delete file="${build}/Data.zip" />
+	</target>
+</project>

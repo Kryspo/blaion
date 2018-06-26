@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+  <npcs>
+    <npc>10002</npc> <!-- Nicole -->
+  </npcs>
+
+<!-- Potions -->
+<!-- © 2010 by mathuza -->
+
+
+
+
+  <!-- Greater СP Potion -->
+ <item>
+   
+    <production id="5592" count="1"/>
+  </item> 
+
+  <!-- СP Potion -->
+ <item>
+   
+    <production id="5591" count="1"/>
+  </item> 
+  
+  <!-- Bottle of Souls -->
+	<item>
+		
+		<production id="10409" count="1" />
+	</item>
+  
+  <!-- Full Bottle of Souls - 5 Souls (For Combat) -->
+	<item>
+		
+		<production id="10411" count="1" />
+	</item>
+
+  
+  <!-- Endeavor Potion -->
+ <item>
+   
+    <production id="733" count="1"/>
+  </item>
+
+  <!-- Greater Swift Attack Potion -->
+ <item>
+   
+    <production id="1375" count="1"/>
+  </item>
+
+  <!-- Greater Haste Potion -->
+ <item>
+   
+    <production id="1374" count="1"/>
+  </item>
+
+  <!-- Greater Magic Haste Potion -->
+ <item>
+   
+    <production id="6036" count="1"/>
+  </item>
+  
+   <!-- Healing Potion -->
+ <item>
+   
+    <production id="1061" count="1"/>
+  </item>
+  
+   <!-- Quick Healing Potion -->
+ <item>
+   
+    <production id="1540" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+ <item>
+   
+    <production id="1539" count="1"/>
+  </item>
+  
+    <!-- Mana Potion -->
+ <item>
+   
+    <production id="728" count="1"/>
+  </item>
+  
+   <!-- Elixir of Life (B-Grade) -->
+ <item>
+   
+    <production id="8625" count="1"/>
+  </item>
+
+ <!-- Elixir of Life (A-Grade) -->
+ <item>
+   
+    <production id="8626" count="1"/>
+  </item>
+
+  <!-- Elixir of Life (S-Grade) -->
+ <item>
+   
+    <production id="8627" count="1"/>
+  </item>
+  
+   <!-- Elixir of Mental Strength (B-Grade) -->
+ <item>
+   
+    <production id="8631" count="1"/>
+  </item>
+
+  <!-- Elixir of Mental Strength (A-Grade) -->
+ <item>
+   
+    <production id="8632" count="1"/>
+  </item>
+
+  <!-- Elixir of Mental Strength (S-Grade) -->
+ <item>
+   
+    <production id="8633" count="1"/>
+  </item>
+
+  <!-- Elixir of CP (B-Grade) -->
+ <item>
+   
+    <production id="8637" count="1"/>
+  </item>
+
+  <!-- Elixir of CP (A-Grade) -->
+ <item>
+   
+    <production id="8638" count="1"/>
+  </item>
+  
+  <!-- Elixir of CP (S-Grade) -->
+ <item>
+   
+    <production id="8639" count="1"/>
+  </item>
+  
+  <item>
+   
+    <production id="20394" count="1"/>
+  </item>
+  
+ <item>
+   
+    <production id="20393" count="1"/>
+  </item>
+
+
+</list>
