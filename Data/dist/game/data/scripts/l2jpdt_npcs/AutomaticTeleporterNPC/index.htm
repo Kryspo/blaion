@@ -1,0 +1,48 @@
+<html><head>
+  <title>Global Teleporter</title>
+<body>
+<center>Quiiet, erggh <font color="00FF00">%player%</font>,<br1>
+Im <font color="FFCC00">Kristina</font>, world is mine. I can give your world to hand.<br>
+Just, what you need is an <font color="FFCC00">%itemname%</font>, without this I cannot help you, <font color="00FF00">%player%</font>.<br>    
+<table width="180">
+	<tr>
+		<td align="center">Can I teleport you? <font color="FF66FF">-->></font></td>
+		<td align="left"><button value="info" action="bypass -h Quest AutomaticTeleporterNPC info1" width=33 height=18 back="L2UI_ct1.Gauge_DF_Attribute_Fire" fore="L2UI_ct1.Gauge_DF_Attribute_Fire"></td>
+	</tr>
+</table>	
+<table width="250">
+	<tr>
+	    <td align="center"><img src="L2UI_CT1.Inventory_DF_Btn_RotateLeft_Over" width=64 height=32></td>
+		<td align="center"><button value="Yes, please" action="bypass -h Quest AutomaticTeleporterNPC autoTeleport" width=122 height=32 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+		<td align="center"><img src="L2UI_CT1.Inventory_DF_Btn_RotateRight_Over" width=64 height=32></td>
+	</tr>
+</table>
+<br><br>
+<table width="250">
+	<tr>
+		<td align="center">Or you can select region</td>
+	</tr>
+</table>	
+<table width="250">
+	<tr>
+	    <td align="center"><img src="L2UI_CT1.MiniGame_DF_Icon_Water" width=32 height=32></td>
+		<td align="center"><button value="Show it, please" action="bypass -h Quest AutomaticTeleporterNPC showRegions" width=150 height=32 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+		<td align="center"><img src="L2UI_CT1.MiniGame_DF_Icon_Earth_Over" width=32 height=32></td>
+	</tr>
+</table>
+<br><br>
+<table width="160">
+	<tr>
+		<td align="center">Saved location <font color="FF66FF">-->></font></td>
+		<td align="left"><button value="info" action="bypass -h Quest AutomaticTeleporterNPC info2" width=33 height=18 back="L2UI_ct1.Gauge_DF_Attribute_Fire" fore="L2UI_ct1.Gauge_DF_Attribute_Fire"></td>
+	</tr>
+</table>	
+<table width="250">
+	<tr>
+	    <td align="center"><img src="L2UI_CT1.Icon_df_Min_Minimap" width=32 height=32></td>
+		<td align="center"><button value="List of saved locations" action="bypass -h Quest AutomaticTeleporterNPC savedLocation" width=140 height=32 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+		<td align="center"><img src="L2UI_CT1.Minimap_DF_ICN_TerritoryWar_Innadril" width=32 height=32></td>
+	</tr>
+</table>
+</center>
+</body></html>
