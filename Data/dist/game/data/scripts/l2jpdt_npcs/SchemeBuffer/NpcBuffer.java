@@ -1845,9 +1845,10 @@ public class NpcBuffer extends Quest
 			}
 			return rebuildMainHtml(st);
 		}
-		/*
-		 * else if ((int) (System.currentTimeMillis() / 1000) > st.getInt("blockUntilTime")) { return showText(st, "Sorry", "You have to wait a while!<br>if you wish to use my services!", false, "Return", "main"); }
-		 */
+		else if ((int) (System.currentTimeMillis() / 1000) > st.getInt("blockUntilTime"))
+		{
+			return showText(st, "Sorry", "You have to wait a while!<br>if you wish to use my services!", false, "Return", "main");
+		}
 		if (!BUFF_WITH_KARMA && (player.getKarma() > 0))
 		{
 			return showText(st, "Info", "You have too much <font color=FF0000>karma!</font><br>Come back,<br>when you don't have any karma!", false, "Return", "main");
