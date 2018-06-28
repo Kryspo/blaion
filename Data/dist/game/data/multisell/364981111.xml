@@ -38,14 +38,28 @@
 	<item>
 		<!-- Adena -->
 		<ingredient count="50" id="26641" />
-		<!-- Steelrazon Evaluation -->
-		<production count="1" id="9772" />
+		<!-- Ancient Book - Divine Inspiration (Modern Language Version) -->
+		<production count="1" id="8618" />
 	</item>
 	
 	<item>
 		<!-- Adena -->
 		<ingredient count="50" id="26641" />
-		<!-- Mask of Medium -->
-		<production count="1" id="1631" />
+		<!-- Ancient Book - Divine Inspiration (Modern Language Version) -->
+		<production count="1" id="8619" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="50" id="26641" />
+		<!-- Ancient Book - Divine Inspiration (Modern Language Version) -->
+		<production count="1" id="8620" />
+	</item>
+	
+	<item>
+		<!-- Adena -->
+		<ingredient count="50" id="26641" />
+		<!-- Ancient Book - Divine Inspiration (Modern Language Version) -->
+		<production count="1" id="8621" />
 	</item>
 </list>

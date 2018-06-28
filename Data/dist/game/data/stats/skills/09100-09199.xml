@@ -252,7 +252,7 @@
 		<set name="target" val="TARGET_NONE" />
 		<set name="skillType" val="NOTDONE" />
 		<set name="operateType" val="OP_PASSIVE" />
-		<set name="reuseDelay" val="1800000" />
+		<set name="reuseDelay" val="5400000" />
 		<set name="staticReuse" val="true" />
 	</skill>
 	<skill id="9114" levels="1" name="Nevit's Voice">
